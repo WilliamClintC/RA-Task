@@ -1,0 +1,6 @@
+company_name,bidder_num,bid_amount,address,pattern_matched
+JOHN R JURGENSEN COMPANY,1,"258,900.00",11641 MOSTELLER RD,pattern_bid_company_address
+RACK & BALLAUER EXCAVATING CO INC,2,"267,124.64",11321 PADDY'S RUN RD,pattern_bid_company_address
+BARRETT PAVING MATERIALS INC,Unknown,,3751 COMM,pattern_director_company
+"MOSTELLER RD
+CINCINNATI, OH",2,,,pattern_company_bidder
