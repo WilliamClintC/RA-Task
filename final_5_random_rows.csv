@@ -1,0 +1,7 @@
+project_id,route,mileage,lanes,project_duration_days,eng_estimate_mils,win_bid_mils,cost_mils,num_bidders,bidders_list
+99593,90,2.27,4.0,241.0,2.48,2.70727883,2.8265151200000003,2.0,"Burton Scot Contractors, Kokosing Construction"
+94079,45,9.19,2.0,195.0,2.32,2.0878637,2.21724821,7.0,"Ronyak Paving, Shelly & Sands, Koski Construction, Kokosing Construction, Chagrin Valley Paving, Burton Scot Contractors, Americon Industrial Services"
+94392,224,7.15,2.0,141.0,1.468,1.5688661000000002,1.53125862,4.0,"Shelly & Sands, Karvo Companies, Melway Paving, Kokosing Construction"
+100934,117 / 245,2.26,2.0,110.0,0.749,0.7885806,0.74617152,1.0,Shelly
+87210,30 / 697 / 190 / 189 / 66,,2.0,185.0,1.886,2.05153378,2.13151588,2.0,"Bluffton Paving, Shelly"
+100999,265 / 376,19.07,2.0,235.0,2.476,2.24228555,2.52384011,2.0,"Shelly & Sands, The Lash Paving"
