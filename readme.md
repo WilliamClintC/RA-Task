@@ -2,12 +2,11 @@
 
 ## Summary
 
-This project delivers a comprehensive data collection solution as outlined in `RA_Task.pdf`. While the original requirements specified analysis of 5 projects, the scope was expanded to encompass all 202 available projects in the dataset, demonstrating thoroughness and technical proficiency. Additional data fields have been incorporated to ensure completeness and enhance analytical value, including bidder location, bid amounts, and award status.
+This project delivers a comprehensive data collection solution as outlined in `RA_Task.pdf`. While the original requirements specified analysis of 5 projects, the scope was expanded to encompass all 202 available projects in the dataset, demonstrating thoroughness, technical proficiency and interest. Additional data fields have been incorporated to ensure completeness and enhance analytical value, including bidder location, bid amounts, and award status.
 
-**Note**: Due to project timeline constraints, the codebase prioritized functionality and deliverable completion. Future iterations would benefit from improved readability, organization, and maintainability.
+**Note**: Due to project timeline constraints, the codebase prioritized functionality and deliverable completion. Future iterations would benefit from improved readability, and organization.
 
-To comply with the five distinct projects requirement. I will get 5 random project entries in C:\Users\clint\Desktop\RA Task\final_output_complete.csv i will document my progress in C:\Users\clint\Desktop\RA Task\15.ipynb . I will then work on verifying these 5 project entries using what i learned throughout this entire process. 
-
+`15.ipynb` documents the verification process for a random sample of projects, in accordance with the requirements outlined in `RA_Task.pdf`. Each of these 6 entries was manually verified, and the methodology, supporting evidence, and results are thoroughly detailed within the notebook. This process ensured that all blank fields for the sampled projects were accurately completed based on assignment.
 
 ## Table of Contents
 
@@ -150,8 +149,6 @@ This section outlines the systematic approach employed to complete the data coll
 - Generated multiple output formats:
   1. Template-matching layout file
   2. Fields-specific file as requested in `RA_Task.pdf`
-
-`15.ipynb` documents the verification process for a random sample of projects, in accordance with the requirements outlined in `RA_Task.pdf`. Each of these 6 entries was manually verified, and the methodology, supporting evidence, and results are thoroughly detailed within the notebook. This process ensured that all blank fields for the sampled projects were accurately completed based on assignment.
 
 ## Key Outputs
 
